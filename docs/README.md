@@ -1,45 +1,23 @@
-# Arithmetic Operations
+# Arithmetic
+> A website to solve Basic Arithmetic Problems.
 
-> An awesome project.
+## What is it
+> Arithmetic Operations or Arithmetic website is make easy to solve your  daily life basic maths problem like addition, subtraction, multiplication extra.
 
-## headline2
-> side bar 2
+Go to [quick start](quickstart.md) guide to learn more about it.
 
-## Nested Vidya
+## Features
+* Addition 
+* Subtraction
+* Multiplication
+* Division
+* Toggle of Result
 
-	## first row
-	> An online automation system for schools.
+## Examples
+> To see examples go to [examples](examples.md)
 
-		>> ## second row
-		> If I could fly, I'd be coming right back home to you
+## Developed By
+> [NestedPointer](www.nestedpointer.com)
 
-			>>> ##row third
-			> If I could fly, I'd be coming right back home to you
 
-* item1
-* item2
-* item3
-> oredered list
-1. Cheese
-2. orederd2
-3. ordered3
-
-## nested blockquotes
-> If I could fly, I'd be coming right back home to you
->> Bismillah-ah-rheman-a-Rahim
->>> Allah a hu akabar allah
-> M hu Giyana M hu bada takatwar
-
-## feauters of Nested Vidya
-
-> Nested vidya cloud services
-> Best website services
-
-## product BOB 
-
-> BOB the builder website builder
-
-## product third
-
-> internet of things
 
