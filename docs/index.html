@@ -9,41 +9,21 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+
   <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: '',
-      repo: ''
-    }
-  </script>
 
   <div data-app id="main">Please wait...</div>
 
   <script>
     window.$docsify = {
-      el: '#main'
-    }
+      el: '#app',
+      name: 'Arithmetic',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      coverpage: true,
+      executeScript: true
+    };
   </script>
-
-  <script>
-    window.$docsify = {
-     loadSidebar: true
-    }
-  </script>
-  
-  <script>
-    window.$docsify = {
-    coverpage: true
-    }
-  </script>
-
-  <script>
-    window.$docsify = {
-     loadSidebar: true,
-     subMaxLevel: 2
-    }
-  </script>
-
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>

@@ -1,13 +1,10 @@
 
+# Arithmetic <small>1.0</small>
 
-# Nested Vidya <small>1.0</small>
+> A tool to solve your math Problems
 
-> A online Automation School System.
+- Simple and Easy to Use
+- Turbo Fast 
 
-- Eco Friendly
-- Simple and lightweight
-- Dynamic Website Host Services
-- Multiple Features
-
-[GitHub](https://jangidshubh.github.io/)
-[Getting Started](#docsify)
+[GitHub](https://jangidshubh.github.io/math.github.io/)
+[Getting Started](quickstart.md)
