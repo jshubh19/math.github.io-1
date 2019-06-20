@@ -6,7 +6,8 @@
  
 - Guide
 	- [Modules](guide.md)
-	- [Frontend](html.md)
+	- [Html](html.md)
+	- [JavaScript](js.md)
 
 - Example
 	- [sample](example.md)	

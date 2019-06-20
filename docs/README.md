@@ -14,7 +14,10 @@ Go to [quick start](quickstart.md) guide to learn more about it.
 * Toggle of Result
 
 ## Examples
-> To see examples go to [examples](examples.md)
+> To see examples go to [examples](example.md)
+
+## How to Use
+> Working with Arithmetic follow [Guide](guide.md)
 
 ## Developed By
 > [NestedPointer](www.nestedpointer.com)
