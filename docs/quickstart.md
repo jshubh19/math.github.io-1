@@ -3,7 +3,7 @@
 > In Today's world everybody wants to be done their work as fast as he can, Arithmetic solves your basic maths problem in that way.
 
 ## How to Use
->  Simple as Hell
+> it's easy to use just follow below instructions:
 
 **Program Picture**
 

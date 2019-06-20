@@ -17,7 +17,7 @@ Go to [quick start](quickstart.md) guide to learn more about it.
 > To see examples go to [examples](example.md)
 
 ## How to Use
-> Working with Arithmetic follow [Guide](guide.md)
+> Working with Arithmetic follow [Guide](documentation.md)
 
 ## Developed By
 > [NestedPointer](www.nestedpointer.com)

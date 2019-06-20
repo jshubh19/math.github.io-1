@@ -4,10 +4,11 @@
 - Getting started
   - [Quick start](quickstart.md)
  
-- Guide
-	- [Modules](guide.md)
-	- [Html](html.md)
-	- [JavaScript](js.md)
+- Documentation
+	- [ModulesOfArithmetic](documentation.md)
+	- [FrontEndDocumentation](html.md)
+	- [FrontEndJavaScript](js.md)
+	- [ServerSideDocumentation](server.md)
 
 - Example
 	- [sample](example.md)	

@@ -43,7 +43,7 @@ Use this code given below to create input boxes and for  submit button .
 						<button type="submit" name="submit" class="btn btn--default" value="submit" id="sub1">Submit</button>
 					</form>
 				</div>	
-			</div>		
+			</di>		
 		</div>
 		<br>
 ```
@@ -84,7 +84,7 @@ button html tag is used to create buttons on html webpages.
 
 br tag is for linebreak.
 
-## Form & Its Method
+## Form & Methods
 
 form Tag. The form tag in HTML is used to create form for user input. There are many elements which are used within form tag. For example: input, textarea, button, select, option, optgroup, fieldset, label.	
 
