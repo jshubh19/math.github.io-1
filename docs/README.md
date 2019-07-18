@@ -20,7 +20,7 @@ Go to [quick start](quickstart.md) guide to learn more about it.
 !> Working with Arithmetic follow [Guide](documentation.md)
 
 ## Developed By
-!> [NestedPointer](www.nestedpointer.com)
+!> [Shubham Jangid](https://linkedin.com/in/shubhjangid/)
 
 
 
